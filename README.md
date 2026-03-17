@@ -28,6 +28,7 @@ Select Class
 This automation script verifies the behavior of different form elements on the TesterBud platform by simulating real user interactions. It ensures that all input fields, controls, and workflows function correctly and meet expected outcomes.
 
 ▶️ How to Run
+
 Clone the repository
 Open the project in Eclipse IDE
 Add required Selenium dependencies (if not already included)
